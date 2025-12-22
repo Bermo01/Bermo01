@@ -16,9 +16,13 @@ Intéressé par les **systèmes mécatroniques**, l’électronique embarquée, 
 **Cycle ingénieur – Génie électrique et électronique**  
 Toulouse INP – ENSEEIHT (N7), France
 
-**2021 – 2024**  
+**2024 – 2025**  
 **Licence en mécatronique – Génie électrique**  
 Université de Strasbourg, France
+
+**2023 – 2024**  
+**Cycle Ingénieur – Génie électrique**  
+Ecole Polytechique D'Agadir, Maroc
 
 **2021 – 2023**  
 **BTS en mécatronique**  
