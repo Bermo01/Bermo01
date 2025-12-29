@@ -3,7 +3,8 @@
 ## 👨‍🎓 Profil
 
 Étudiant en 2ᵉ année du cycle ingénieur en **génie électrique et électronique** à **Toulouse INP – ENSEEIHT**.  
-Intéressé par les **systèmes mécatroniques**, l’électronique embarquée, l’automatisme et l’intégration de systèmes intelligents appliqués à des projets industriels et de recherche.
+Orienté systèmes mécatroniques, automatisme et robotique.
+Étudiant-Entrepreneur (SNEE).
 
 📍 Toulouse, France  
 📧 bermone.tech@gmail.com
