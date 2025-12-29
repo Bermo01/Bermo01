@@ -100,7 +100,6 @@ OFPPT, Oujda, Maroc
 - **Français** : langue maternelle  
 - **Anglais** : niveau professionnel  
 - **Allemand** : A2  
-
 ---
 
 ## 🤝 Compétences transversales
@@ -110,4 +109,5 @@ OFPPT, Oujda, Maroc
 - Adaptabilité aux nouvelles technologies  
 - Rigueur et organisation
 
+📄 [Télécharger mon CV](./CV_Aboubacar_Bermone.pdf)
 
