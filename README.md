@@ -111,8 +111,3 @@ OFPPT, Oujda, Maroc
 - Rigueur et organisation
 
 
-/docs
-  ├── Drone Strasbourg L3.pdf
-  ├── schema-proteus.png
-  └── analyse-systeme.md
-
