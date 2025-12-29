@@ -112,11 +112,28 @@ OFPPT, Oujda, Maroc
 
 ## 📄 Documents importants
 
-- [Projet Personnel Professionnel (PPP)](PPP%20(Projet%20Personnel%20Professionnel).pdf)
+- [ PPP(Projet Personnel Professionnel)](PPP%20(Projet%20Personnel%20Professionnel).pdf)
 - [CV en Français](CV%20en%20Français.pdf)
 - [CV en Anglais](CV%20en%20Anglais.pdf)
 - [Rapport de stage ICUBE & INSA Strasbourg](RAPPORT%20DE%20STAGE%20ICUBE%20et%20INSA%20Strasbourg....pdf)
 - [Stage ICUBE Strasbourg et INSA](Stage%20ICUBE%20Strasbourg%20et%20INSA.pdf)
+## 📂 Projets techniques
+
+### 🔹 Rescue Drone – Projet universitaire Strasbourg
+> Conception complète d’un drone de secours : dimensionnement, électronique embarquée, algorithmes de détection autonome.
+- [Drone Strasbourg L3](Drone%20Strasbourg%20L3.pdf)
+### 🔹 Automated Cooling Loop – Stage COLAIMO (Maroc)
+> Développement d’une boucle de refroidissement automatisée pour l’industrie agroalimentaire.  
+> Programmation et supervision Siemens (TIA Portal, WinCC).
+
+### 🔹 Robot industriel FESTO – Projet OFPPT
+> Programmation d’un bras robotisé Mitsubishi RV‑2SDB en C.  
+> Gestion de tâches industrielles et optimisation de l’espace de travail.
+
+### 🔹 Systèmes solaires et trackers – Projet Agadir
+> Développement d’un tracker solaire et d’un système d’éclairage public automatisé.  
+> Microcontrôleur, PCB, instrumentation.
+
 
 ## 🖼️ Illustrations techniques
 Réalisations d'une carte électronique avec Proteus (ISIS)
@@ -129,8 +146,6 @@ Réalisations d'une carte électronique avec Proteus (ISIS)
 - ![Datasheet](Datasheet.PNG)
 
 ## 📦 Autres fichiers
-Projet Drone de sécours :
-- [Drone Strasbourg L3](Drone%20Strasbourg%20L3.pdf)
 
 
 
