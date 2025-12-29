@@ -112,7 +112,7 @@ OFPPT, Oujda, Maroc
 
 ## 📄 Documents importants
 
-- [ PPP ( Projet Personnel Professionnel)](PPP%20(Projet%20Personnel%20Professionnel).pdf)
+- [[ PPP ( Projet Personnel Professionnel)](PPP%20(Projet%20Personnel%20Professionnel).pdf)](https://github.com/Bermo01/Bermo01/blob/main/PPP%20(%20Projet%20Personnel%20Professionnel).pdf)
 - [CV en Français](CV%20en%20Français.pdf)
 - [CV en Anglais](CV%20en%20Anglais.pdf)
 - [Rapport de stage ICUBE & INSA Strasbourg](RAPPORT%20DE%20STAGE%20ICUBE%20et%20INSA%20Strasbourg....pdf)
