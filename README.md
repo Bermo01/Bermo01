@@ -108,6 +108,30 @@ OFPPT, Oujda, Maroc
 - Autonomie et résolution de problèmes  
 - Adaptabilité aux nouvelles technologies  
 - Rigueur et organisation
+---
 
-📄 [Télécharger mon CV](./CV_Aboubacar_Bermone.pdf)
+## 📄 Documents importants
+
+- [Projet Personnel Professionnel (PPP)](PPP%20(Projet%20Personnel%20Professionnel).pdf)
+- [CV en Français](CV%20en%20Français.pdf)
+- [CV en Anglais](CV%20en%20Anglais.pdf)
+- [Rapport de stage ICUBE & INSA Strasbourg](RAPPORT%20DE%20STAGE%20ICUBE%20et%20INSA%20Strasbourg....pdf)
+- [Stage ICUBE Strasbourg et INSA](Stage%20ICUBE%20Strasbourg%20et%20INSA.pdf)
+
+## 🖼️ Illustrations techniques
+Réalisations d'une carte électronique avec Proteus (ISIS)
+- ![Modélisation 3D](Modelisation%203D.PNG)
+- ![Modélisation 3D verso](Modélisation%203D%20VERSO.PNG)
+- ![Réalisation sur ISIS](ISIS%20réalisation.PNG)
+- ![Réalisation sur ARES](Réalisation%20sur%20ARES.PNG)
+- ![LED](led.PNG)
+- ![ARES IMPORTE](ARES%20IMPORTE.pdf)
+- ![Datasheet](Datasheet.PNG)
+
+## 📦 Autres fichiers
+Projet Drone de sécours :
+- [Drone Strasbourg L3](Drone%20Strasbourg%20L3.pdf)
+
+
+
 
