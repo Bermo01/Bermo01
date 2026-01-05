@@ -129,7 +129,8 @@ OFPPT, Oujda, Maroc
 ### 🔹 Robot industriel FESTO – Projet OFPPT
 > Programmation d’un bras robotisé Mitsubishi RV‑2SDB en C.  
 > Gestion de tâches industrielles et optimisation de l’espace de travail.
-[📥 Télécharger la vidéo](B1D8777C-3177-4EA9-BCB7-A93DADE2AC2F (1).mp4)
+> /demo_video.mp4
+[📥 Télécharger la vidéo](demo_video.mp4)
 ### 🔹 Systèmes solaires et trackers – Projet Agadir
 > Développement d’un tracker solaire et d’un système d’éclairage public automatisé.  
 > Microcontrôleur, PCB, instrumentation.
